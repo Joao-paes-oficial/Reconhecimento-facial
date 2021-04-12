@@ -12,6 +12,6 @@ Upload do documento contendo os códigos e duas fotos para testes.
 
 ![eu](https://user-images.githubusercontent.com/68566439/114439019-e390fc80-9b9e-11eb-9ec4-ebe940f4aaf4.png)
 
-**Essa é a imagem que eu usei como teste:**
+**E o resultado alcançado foi esse:**
 
 ![resultado](https://user-images.githubusercontent.com/68566439/114439063-f0adeb80-9b9e-11eb-9979-98ab036dc693.png)
