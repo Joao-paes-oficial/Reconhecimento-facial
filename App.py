@@ -24,7 +24,7 @@ draw = ImageDraw.Draw(Pil_image)
 for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodings):
     matches = face_recognition.compare_faces(known_face_encoding, face_encoding)
 
-    name = 'Random Person'
+    name = 'Pessoa Aleatória'
 
     if True in matches:
         firs_match_index = matches.index(True)
